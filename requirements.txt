@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 rich
 pandas
+feedparser
+python-dotenv
